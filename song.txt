@@ -3,6 +3,11 @@ It's me
 What's up, bro?
 Looking Good!
 Let's try this change
+<<<<<<< HEAD
 New change so what?!
 :)
 another try
+=======
+New change so what?!
+>>>>>>> cc72cc42b5a7a09fb511d38998f320854fe14ec8
+Este es otro
